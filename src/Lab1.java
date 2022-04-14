@@ -32,7 +32,7 @@ public class Lab1 {
     private static void ensureShort(Scanner scan) {
         while (!scan.hasNextShort()) {
             System.out.println("was in input buffer: \"" + scan.nextShort() + "\"");
-            System.out.println("Please enter number in the range -32768 to 32767 (not other symbol(s)).");
+            System.out.println("Please enter a number in the range -32768 to 32767 (not other symbol(s)).");
         }
     }
 }
