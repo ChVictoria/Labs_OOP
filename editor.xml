@@ -1,6 +1,5 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="TodoConfiguration">
